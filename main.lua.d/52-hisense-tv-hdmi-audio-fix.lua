@@ -14,5 +14,4 @@ local rule = {
   },
 }
 
--- disabled
--- table.insert(alsa_monitor.rules, rule)
+table.insert(alsa_monitor.rules, rule)
